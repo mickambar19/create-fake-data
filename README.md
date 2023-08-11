@@ -1,5 +1,5 @@
-<h1 align="center">
-  faker-cli
+<h1 align="center" background="salmon">
+  create-fake-data
 </h1>
 
 [![Coverage](https://img.shields.io/badge/coverage-0%25-red)](https://)
